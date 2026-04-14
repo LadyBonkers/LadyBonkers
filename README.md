@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**LadyBonkers/LadyBonkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> ִ ࣪ ˖ ࣪ Welcome ! ᰔ ִ ׄ</h1>
 
-Here are some ideas to get you started:
+<img src="banner.jpg" alt="Banner" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<h1> ✩°｡🧺 About me 𖦹 ₊˚</h1>
+
+<div style="text-align: left; padding: 20px 0;">
+  <ul>
+    <li>‧₊˚ ☁️⋅🎓⋆ <strong> Software Engineering </strong> - 1 / 4 </li>
+    <li>‧₊˚ ☁️⋅🪐༘⋆ <strong>Software Developer </strong></li>
+    <li>‧₊˚ ☁️⋅💫⋆ <strong> Languages: </strong> Python, JavaScript, Html </li>
+    <li>‧₊˚ ☁️⋅✨⋆ <strong> Idioms: </strong> English (Intermediate) and Spanish </li>
+  </ul>
+</div>
+
+<hr>
+
+  <h6> Made by LadyBonkers - April 14 2026 </h6>
+
+  
+

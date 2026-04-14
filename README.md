@@ -1,7 +1,7 @@
 
 <h1> ִ ࣪ ˖ ࣪ Welcome ! ᰔ ִ ׄ</h1>
 
-![98c06a017357137f4a232d3b079f3bf0](https://github.com/user-attachments/assets/03a24735-1d73-4210-b307-df298a49cacf)
+![5d91a2036b4da364dbfd71ad29d1de8b](https://github.com/user-attachments/assets/79beb808-c961-4127-b40a-7284d6d9eacd)
 
 <hr>
 <h1> ✩°｡🧺 About me 𖦹 ₊˚</h1>
